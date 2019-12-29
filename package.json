@@ -1,0 +1,23 @@
+{
+  "name": "react-testing-once",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaiyilin/react-testing-once.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaiyilin/react-testing-once/issues"
+  },
+  "homepage": "https://github.com/chaiyilin/react-testing-once#readme",
+  "devDependencies": {
+    "webpack": "^4.41.4",
+    "webpack-dev-server": "^3.10.1"
+  }
+}
