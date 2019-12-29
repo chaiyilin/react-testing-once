@@ -2,7 +2,7 @@
   "name": "react-testing-once",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,8 +16,8 @@
     "url": "https://github.com/chaiyilin/react-testing-once/issues"
   },
   "homepage": "https://github.com/chaiyilin/react-testing-once#readme",
-  "devDependencies": {
-    "webpack": "^4.41.4",
-    "webpack-dev-server": "^3.10.1"
+  "peerDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-dev-server": "^3.9.0"
   }
 }
